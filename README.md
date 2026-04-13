@@ -14,7 +14,7 @@ AIORI-2 Hackathon 2025.
 ## What I work with
 **AI/ML:** Gemini API · ChatGPT API · LangChain · Prompt Engineering · XGBoost · scikit-learn  
 **Backend:** Python · Flask · Django · FastAPI · Node.js · REST APIs  
-**Tools:** Git · Docker · Postman · ChromaDB · PyPDF2 · Streamlit
+**Tools:** Git · Docker · Postman · PyPDF2 · Streamlit · IBM SPSS
 
 ## Currently
 - 🔨 Building a RAG-based PDF Q&A system with LangChain + ChromaDB
