@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Megha 👋
 
-<!--
-**MeghaScaria/MeghaScaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year CS undergrad at CHRIST University, Bangalore, building AI-powered tools 
+that actually work in production.
 
-Here are some ideas to get you started:
+I interned at Manasio Pvt. Ltd. where I built three end-to-end AI systems using 
+Google Gemini API and ChatGPT API — an automated code scoring engine, an AI 
+interview simulator, and an ATS resume optimizer with LaTeX/Overleaf integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of internships, I've trained and deployed ML models for real-world problems 
+(city-level IP geolocation using XGBoost), reaching the national finals at MeitY's 
+AIORI-2 Hackathon 2025.
+
+## What I work with
+**AI/ML:** Gemini API · ChatGPT API · LangChain · Prompt Engineering · XGBoost · scikit-learn  
+**Backend:** Python · Flask · Django · FastAPI · Node.js · REST APIs  
+**Tools:** Git · Docker · Postman · ChromaDB · PyPDF2 · Streamlit
+
+## Currently
+- 🔨 Building a RAG-based PDF Q&A system with LangChain + ChromaDB
+- 📖 Learning: LangChain Agents, Hugging Face fine-tuning, FastAPI
+- 👀 Open to AI/ML internships from April 2026
+
+📫 megha.san.scaria@gmail.com · [LinkedIn](https://www.linkedin.com/in/megha-s-scaria-6abb84325/)
