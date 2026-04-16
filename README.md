@@ -1,6 +1,6 @@
 # Hi, I'm Megha 👋
 
-3rd-year BTech in CSE student at CHRIST University, Bangalore, building AI-powered tools 
+Final year BTech in CSE student at CHRIST University, Bangalore, building AI-powered tools 
 that actually work in production.
 
 I interned at Manasio Pvt. Ltd. where I built three end-to-end AI systems using 
