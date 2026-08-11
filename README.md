@@ -19,6 +19,5 @@ AIORI-2 Hackathon 2025.
 ## Currently
 - 🔨 Building a RAG-based PDF Q&A system with LangChain + ChromaDB
 - 📖 Learning: LangChain Agents, Hugging Face fine-tuning, FastAPI
-- 👀 Open to AI/ML internships from April 2026
 
 📫 megha.san.scaria@gmail.com · [LinkedIn](https://www.linkedin.com/in/megha-s-scaria-6abb84325/)
